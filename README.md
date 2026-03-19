@@ -16,5 +16,6 @@ Hey! This is a desktop translation app I built using Python and Flet. I wanted a
 
 ## How to Run
 
-Install the required dependencies from your terminal:
-   pip install flet deep-translator
+## Install the required dependencies from your terminal:
+* pip install flet
+* pip install flet deep-translator
